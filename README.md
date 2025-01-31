@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kilebles&show_icons=true&theme=radical" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=kilebles&show_icons=true&theme=radical" width="500">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilebles&theme=radical&hide_border=false" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilebles&theme=radical&hide_border=false" width="500">
 </p>
 
 ---
