@@ -3,17 +3,3 @@
   <br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kilebles&theme=radical&hide_border=false&layout=compact&langs_count=8&cache_seconds=1800" width="500">
 </p>
-
----
-
-<p align="center">
-  <a href="https://t.me/amEnemy">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="mailto:eliseyblajen@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/kilebles">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
